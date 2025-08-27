@@ -1,0 +1,94 @@
+*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://wallpaperbat.com/img/13938144-the-best-google-search-wallpaper.jpg");
+   background-repeat: no-repeat;
+}
+
+.paragrafo{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 20px 70px 50px 70px;
+    box-shadow: 7px 7px 10px ;
+    font-size: 50px;
+}
+
+div.bloco{
+    width: 500px;
+    height: 110px;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 10px;
+}
+
+div.bloco1{
+
+        background-color: rgb(136, 99, 172);
+        box-shadow: 6px 6px 10px black;
+        color: azure;
+        
+}
+.container{
+align-items: center;
+text-align: left;
+
+}
+
+.imagem img{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 5px;
+width: 200px;
+height: 110px;
+align-self: center;
+border-radius: 15px;
+
+}
+
+.imagem2 img{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 5px;
+width: 200px;
+height: 110px;
+align-self: center;
+border-radius: 15px;
+
+}
+
+.imagem3 img{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 5px;
+width: 200px;
+height: 110px;
+align-self: center;
+border-radius: 15px;
+
+}
+
+div.bloco2{
+        /* float: right; */
+        background-color: rgb(95, 70, 121);
+        box-shadow: 6px 6px 10px black;
+        color: azure;
+}
+
+div.bloco3{
+        /* float: right; */
+        background-color: rgb(73, 53, 93);
+        box-shadow: 6px 6px 10px black;
+        color: azure;
+}
+
