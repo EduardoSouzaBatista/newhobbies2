@@ -9,6 +9,10 @@ body{
    background-repeat: no-repeat;
 }
 
+body {
+    cursor: url('') 4 4, auto;
+  }
+
 .paragrafo{
     background-color: rgb(255, 248, 252);
     border: 7px solid rgb(255, 101, 247);
@@ -19,9 +23,10 @@ body{
     border-right: 20px;
     border-top: 20px; */
     padding: 14px;
-    margin: 20px 70px 50px 70px;
+    margin: 20px 700px 50px 700px;
     box-shadow: 7px 7px 10px ;
     font-size: 50px;
+    text-align: center;
 }
 
 div.bloco{
@@ -45,10 +50,10 @@ text-align: left;
 
 }
 
-.imagem img{
+.imagem1 img{
     position: absolute;
-    margin-left: 700px;
-    margin-top: 5px;
+    margin-left: 600px;
+    margin-top: -175px;
 width: 200px;
 height: 110px;
 align-self: center;
@@ -70,12 +75,24 @@ border-radius: 15px;
 .imagem3 img{
     position: absolute;
     margin-left: 600px;
-    margin-top: 5px;
+    margin-top: -357px;
 width: 200px;
 height: 110px;
 align-self: center;
 border-radius: 15px;
 
+}
+
+.imagem1:hover{
+    transform: scale(1.05);
+}
+
+.imagem2:hover{
+    transform: scale(1.05);
+}
+
+.imagem3:hover{
+    transform: scale(1.05);
 }
 
 div.bloco2{
@@ -92,3 +109,118 @@ div.bloco3{
         color: azure;
 }
 
+.video11 video{
+    position: absolute;
+    align-self: center;
+}
+
+
+
+.links{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    padding: 14px;
+    margin-right: 1120px;
+    margin-left: 70px;
+    box-shadow: 7px 7px 10px ;
+    font-size: medium;
+    text-align: center;
+}
+
+.paragrafo2{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 20px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: 50px;
+    text-align: center;
+}
+
+.paragrafo3{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 600px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: medium;
+    text-align: center;
+}
+
+.paragrafo4{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 20px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: 50px;
+    text-align: center;
+}
+
+.paragrafo5{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 600px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: medium;
+    text-align: center;
+}
+
+.paragrafo6{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 20px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: 50px;
+    text-align: center;
+}
+
+.paragrafo7{
+    background-color: rgb(255, 248, 252);
+    border: 7px solid rgb(255, 101, 247);
+    /* border-style: groove; */
+    border-color: rgb(216, 169, 255);
+    border-radius: 10px;
+    /* border-left:  20px;
+    border-right: 20px;
+    border-top: 20px; */
+    padding: 14px;
+    margin: 600px 700px 50px 700px;
+    box-shadow: 7px 7px 10px ;
+    font-size: medium;
+    text-align: center;
+}
